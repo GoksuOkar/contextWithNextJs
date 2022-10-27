@@ -10,6 +10,7 @@ export default function Home() {
         <Link href="/">Home |</Link>
         <Link href="/about"> About</Link>
       </nav>
+      You're on About Page
       <Component1 />
     </div>
   );
